@@ -138,6 +138,7 @@ def search(searchString):
     switch_n = -1
     n = ''
     k = ''
+    a = 1
 
     for i in searchString:
         if i == '@':
